@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
   "name": "app.internetmonitor/internet-monitor",
-  "description": "Ask your AI about your internet: uptime, outages, latency and networks from Internet Monitor's local data. Requires the Internet Monitor app for Mac.",
+  "description": "Ask your AI about your internet: uptime, outages and latency from Internet Monitor for Mac.",
   "repository": {
     "url": "https://github.com/andrscrrn/internet-monitor-mcp",
     "source": "github"
