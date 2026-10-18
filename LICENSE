@@ -1,0 +1,19 @@
+Copyright (c) 2026 Andres Carreno. All rights reserved.
+
+The Internet Monitor MCP bundle (internet-monitor.mcpb) distributed from
+this repository may be downloaded and used free of charge. It is designed
+to work with Internet Monitor: Uptime, a paid application for macOS
+distributed through the Mac App Store, which records the data the server
+reads.
+
+Permission is granted to download and install the bundle for personal or
+commercial use. Redistribution of the bundle outside this repository and
+the official website (https://internetmonitor.app), modification, reverse
+engineering, or sale of the bundle or any of its components is not
+permitted without prior written permission.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING
+FROM THE USE OF THE SOFTWARE.
